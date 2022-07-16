@@ -1,0 +1,13 @@
+libftTester
+libftester
+libft-tester-tokyo
+libft-unit-test
+FT_SPLIT_TESTER
+Libftest
+Libft-00
+a.out
+.vscode
+*.o
+*.a
+test_*.c
+test_*.txt
